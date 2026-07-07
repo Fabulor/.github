@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<!-- markdownlint-disable-next-line MD033 -->
+<p align="center">
+  <!-- markdownlint-disable-next-line MD033 -->
+  <img src="https://github.com/Fabulor/fabulor/blob/main/data/icons/Fabulor.svg" alt="Fabulor" width="230" />
+</p>
+
 <!--
 
 **Here are some ideas to get you started:**
