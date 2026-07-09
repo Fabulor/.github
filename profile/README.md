@@ -3,7 +3,7 @@
 <!-- markdownlint-disable-next-line MD033 -->
 <p align="center">
   <!-- markdownlint-disable-next-line MD033 -->
-  <img src="https://github.com/Fabulor/fabulor/blob/main/data/icons/Fabulor.svg" alt="Fabulor" width="230" />
+  <img src="https://avatars.githubusercontent.com/u/300024137?s=200&v=4" alt="Fabulor" width="230" />
 </p>
 
 <!--
