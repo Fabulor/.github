@@ -16,4 +16,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-A modernised GTK4 IRC client for Windows 11+, inspired by HexChat: fast, simple, and highly scriptable with C#, Python, and Tcl.
+A modern GTK4 IRC client for Windows 11+, inspired by [XChat](https://xchat.org/) | [HexChat](https://hexchat.github.io/) | [ZoiteChat](https://zoitechat.org/): fast, simple, and highly scriptable with C#, Python, and Tcl.
